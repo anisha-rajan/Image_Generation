@@ -5,7 +5,7 @@ from io import BytesIO
 from PIL import Image
 
 # Set up Google GenAI API Key (Replace with your actual API key)
-genai.configure(api_key="AIzaSyBGVHzu00sd278pz1rsn-n_kYYNwSOdbq0")  
+genai.configure(api_key="AIzaSyD1zUY1srmMIYmE_6NfjmIzb6yYpbcIDCk")  
 
 def image_to_tamil_poem(image):
     """Generates a Tamil poem about an upload image using Gemini 1.5 Pro"""
